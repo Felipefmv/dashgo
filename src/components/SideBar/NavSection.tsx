@@ -6,7 +6,7 @@ interface NavSectionProps {
   children: ReactNode;
 }
 
-export default function NavLink({tittle, children}:NavSectionProps){
+export default function NavSection({tittle, children}:NavSectionProps){
   return(
     <Box>
       <Text fontWeight="bold" color="gray.400" fontSize="small">{tittle}</Text>
