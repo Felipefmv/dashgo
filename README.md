@@ -6,11 +6,11 @@
 
 <p align="center">
 	<img src="github/animaçãoDashgo.gif"/>
-</p> -->
+</p> 
 
 ## :dart: Objetivo
 
-Essa aplicação é um modelo de dashboards reutilizável feito em React e utilizando a biblioteca do Chackra UI para desenvolver a interface.
+Essa aplicação é um modelo de dashboards reutilizável feito em React e utilizando a biblioteca do Chackra UI.
 Projeto ainda em desenvolvimento.
 
 ## :hammer_and_wrench: Ferramentas
