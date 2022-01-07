@@ -4,12 +4,8 @@
 
 ## :camera: Demonstração
 
-Em breve
-
-<!-- ![gif](github/landing-page.gif)
-
 <p align="center">
-	<img src="github/AnimaçãoMobile.gif" width="300"/>
+	<img src="github/animaçãoDashgo.gif"/>
 </p> -->
 
 ## :dart: Objetivo
@@ -39,15 +35,6 @@ git clone https://github.com/Felipefmv/dashgo
 ```
 yarn
 ```
-
-<!-- 3.Concluindo a instalação crie essas variáveis de anbiente num arquivo .env
-
-```
-HOST = smtp.gmail.com
-PORT = 587
-USER = //e-mail do gmail
-PASS = //senha do e-mail
-``` -->
 
 3.Rode
 
